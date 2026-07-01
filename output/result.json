@@ -1,0 +1,17 @@
+[
+    {
+        "name": "server01",
+        "status": "DOWN",
+        "timestamp": "2026-05-16T12:57:46.816195"
+    },
+    {
+        "name": "server02",
+        "status": "DOWN",
+        "timestamp": "2026-05-16T12:57:46.816220"
+    },
+    {
+        "name": "printer01",
+        "status": "DOWN",
+        "timestamp": "2026-05-16T12:57:46.816228"
+    }
+]
