@@ -1,4 +1,4 @@
 class Target:
-    def __init__self(self, name, status):
+    def __init__(self, name, status):
         self.name = name
         self.status = status
