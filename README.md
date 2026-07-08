@@ -16,10 +16,15 @@ A Python-based network scanner that checks whether devices are reachable on the 
 4) navigate to output folder to view results of the network scan 
 
 ## What I learned
+- learned how automation can be used for network monitoring and data collection
 - network communication using ICMP
-- python object oriented programming
-- error handling
+- python object oriented programming by using classes to organize data 
+- error handling to manage failed commands and timeouts 
 - modular structure to organize a project efficiently
 
+## Future Improvements
+- add a graphical user interface (GUI) to improve usability
+- add real-time monitoring capabilities
+- expand scanning functionality and incorperate additional network analysis tools 
 
 
