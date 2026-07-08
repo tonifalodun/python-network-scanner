@@ -1,6 +1,3 @@
-#I Toni Falodun certify this file is my work. I did not use AI at any step of developing, modifying or debugging this code
-#April 20, 2026
-
 import subprocess
 import platform
 
