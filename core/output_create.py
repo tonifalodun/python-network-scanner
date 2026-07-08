@@ -1,8 +1,3 @@
-#Toni Falodun
-#May 14, 2026
-#I Toni Falodun certify this file is my work. I did not use AI at any step of developing, modifying or debugging this code
-#write csv output to output file
-
 #import json module and datetime for timestamps
 import json
 from datetime import datetime
